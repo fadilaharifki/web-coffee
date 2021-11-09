@@ -9,7 +9,7 @@ import Feature from "./page/feature/index";
 import Product from "./page/product/index";
 import Team from "./page/team/index";
 import Contact from "./page/contact/index";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 
 function App() {
 	return (
